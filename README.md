@@ -1,6 +1,6 @@
-# PayperWS
+# NextJS Starter
 
-Peer 2 Peer economy through APIs
+A starter project for Next.js
 
 ## Install Dependencies
 
